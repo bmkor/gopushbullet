@@ -1,0 +1,4 @@
+pbconfig:
+  pushbulletchanneltag: "YOURCHANNELTAG"
+  pushbulletAPIKey: "YOURAPIKEY"
+  pushbulletEnable: true
